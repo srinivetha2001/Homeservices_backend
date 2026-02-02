@@ -63,3 +63,5 @@ src/
 - Minimal attack surface in GraphQL (auth-aware `context`)
 
 
+
+Created aunthentication ---- register, login and auth me 
